@@ -1,0 +1,5 @@
+employeeNumber = int(input())
+workedHours = int(input())
+amountPerHour = float(input())
+print("NUMBER =", employeeNumber)
+print("SALARAY = U$ {:.2f}".format(workedHours*amountPerHour))
