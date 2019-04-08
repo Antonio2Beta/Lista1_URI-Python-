@@ -1,5 +1,4 @@
-i = input().split(" ")
-a, b, c, d = i
+a, b, c, d = input().split(" ")
 a = int(a)
 b = int(b)
 c = int(c)
