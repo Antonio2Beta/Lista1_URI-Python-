@@ -1,5 +1,4 @@
-val = input().split(" ")
-x, y = val
+x, y = input().split(" ")
 x = int(x)
 y = int(y)
 if (x==1):
