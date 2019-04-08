@@ -1,11 +1,9 @@
 from math import sqrt as raiz
 
-val = input().split(" ")
-x1, y1 = val
+x1, y1 = input().split(" ")
 x1 = float(x1)
 y1 = float(y1)
-val2 = input().split(" ")
-x2, y2 = val2
+x2, y2 = input().split(" ")
 x2 = float(x2)
 y2 = float(y2)
 
